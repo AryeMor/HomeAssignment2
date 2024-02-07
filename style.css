@@ -419,7 +419,9 @@ span {
     height: 200px;
     object-fit: cover;
   }
-
+  header ul {
+    width: auto;
+  }
   header li {
     display: block;
   }
