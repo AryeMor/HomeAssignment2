@@ -399,6 +399,9 @@ span {
   .mainflex-container {
     gap: 40px;
   }
+  #aboutPersonalInformation ul {
+    padding: 16px;
+  }
 }
 @media (max-width: 700px) {
   .mainflex-container {
